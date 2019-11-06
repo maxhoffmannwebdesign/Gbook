@@ -1,0 +1,5 @@
+CREATE TABLE entries (
+  entryid int(11) AUTO_INCREMENT PRIMARY KEY not null,
+  name varchar(56) not null,
+  message varchar(256) not null
+);
