@@ -20,11 +20,6 @@ class Entry {
     $stmt->execute([$this->name, $this->message]);
   }
 
-
-
-
-
 }
-
 
  ?>
