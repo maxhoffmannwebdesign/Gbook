@@ -1,6 +1,11 @@
 # Gbook
-Simple Gbook using PDO and OOP
+Simple guestbook using PDO and OOP
 
 Requires: php 5.1, PDO availability, mysql database access
 
-Basically all you have to do to use this, is to replace the database access information in the file "db.class.php"
+1.create a database of a name of your choice
+2.create table inside said database with the code you find in the file "sql"
+3.replace database information in "db.class.php"
+4.open "index.php" and message away :)
+
+by max-hoffmann-webdesign.de, 2019
